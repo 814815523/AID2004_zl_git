@@ -2,7 +2,7 @@
 
 
 
-for r in list(n):
+f
     for c in range(len(list1)-1,-1,-1):
         if r == list1[c] :
             del list1[c]
